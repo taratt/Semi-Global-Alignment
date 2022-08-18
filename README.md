@@ -9,6 +9,7 @@ AA
 ```
 ## Output
 The output of this code is the alignment score which is printed to the first line of the output. The next following lines are all of the possible ways that the alignment of the two proteins can be done.
+<br>
 Example:
 ```
 4
